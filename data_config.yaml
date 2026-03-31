@@ -1,0 +1,9 @@
+crc:
+  clini_table: data/labels/clini_table.xlsx
+  slide_csv: data/labels/slide.csv
+
+  feature_dir:
+    raw:
+      ctranspath: data/features
+
+  folds: data/folds
